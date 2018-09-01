@@ -4,9 +4,5 @@
   "alias": [
     "ladamn.com",
     "www.ladamn.com"
-  ],
-  "unlisted": [
-    ".git",
-    ".DS_Store"
   ]
 }
