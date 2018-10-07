@@ -1,0 +1,23 @@
+{
+  "name": "wedding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/serve/bin/serve.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minddog/a-wedding-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minddog/a-wedding-site/issues"
+  },
+  "homepage": "https://github.com/minddog/a-wedding-site#readme",
+  "dependencies": {
+    "serve": "^10.0.0"
+  }
+}
